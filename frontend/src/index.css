@@ -1,0 +1,9 @@
+/* Core Stylesheet Imports */
+@import './styles/variables.css';
+@import './styles/global.css';
+@import './styles/navbar.css';
+@import './styles/hero.css';
+@import './styles/sections.css';
+@import './styles/gallery.css';
+@import './styles/admission.css';
+@import './styles/footer.css';
